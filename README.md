@@ -50,7 +50,7 @@ python main.py --chat-id 123456789 --text "Привет!" --speed 0.5
 
 ## Лицензия
 Этот проект распространяется под лицензией MIT. Подробности в файле LICENSE.
-```
+
 
 
 # telegram-msg-animator

@@ -20,8 +20,8 @@ TgAnimSender — это Python-скрипт, который позволяет �
 ## Установка
 1. Клонируйте репозиторий:
    ```
-   git clone https://github.com/ваш_ник/tg-anim-sender.git
-   cd tg-anim-sender
+   git clone https://github.com/Doazhu/telegram-msg-animator.git
+   cd telegram-msg-animator
    ```
 2. Установите зависимости:
    ```
